@@ -1,4 +1,4 @@
-# NextStore — eCommerce Website
+# NextShop — eCommerce Website
 
 NextStore is a modern, responsive eCommerce frontend built with **React** and **Vite**. It presents a full storefront experience: homepage merchandising, product browsing, product details, and a shopping cart drawer.
 
