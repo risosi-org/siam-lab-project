@@ -1,6 +1,6 @@
 # NextShop — eCommerce Website
 
-NextStore is a modern, responsive eCommerce frontend built with **React** and **Vite**. It presents a full storefront experience: homepage merchandising, product browsing, product details, and a shopping cart drawer.
+NextShop is a modern, responsive eCommerce frontend built with **React** and **Vite**. It presents a full storefront experience: homepage merchandising, product browsing, product details, and a shopping cart drawer.
 
 The UI is styled with **Tailwind CSS** and **Material Tailwind**, and product/blog data is loaded from a remote REST API through **Redux Toolkit Query**.
 
@@ -85,7 +85,7 @@ nextshop-website-v1/
 The frontend talks to:
 
 ```text
-https://nextstore-server.onrender.com/api/v1
+https://NextShop-server.onrender.com/api/v1
 ```
 
 | Method | Endpoint | Purpose |
